@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **I’m currently working on:** Revamping my GitHub profile and building a website for listing remote job opportunities using **React**, **Next.js**, and **Tailwind CSS**.
+- 🔭 **I’m currently working on:**Building a website for listing remote job opportunities using **React**, **Next.js**, and **Tailwind CSS**.
 
 - 🌱 **What I’m Learning:** Improving my MERN stack skills and exploring advanced frontend development techniques.
 
