@@ -35,7 +35,7 @@
 
 - **[NiyiStores - E-commerce Website](https://github.com/Elmoustafi-22/niyistores)**: A full-stack e-commerce web application using **React**, **Node.js**, and **MongoDB**. Deployed on **Vercel**, this project showcases my ability to build robust and user-friendly online store platforms. It demonstrates my skills in **frontend design**, **backend development**, and **API integration**.
 
-- **[Remote Job Listings Platform](#)**: A work-in-progress platform to connect job seekers with remote opportunities, particularly tailored for **ALX graduates**. This project is being developed using **Next.js** and **Tailwind CSS** to provide a seamless and responsive user experience.
+- **[Remote Job Listings Platform](#)**: A platform to connect job seekers with remote opportunities. This project is being developed using **Next.js** and **Tailwind CSS** to provide a seamless and responsive user experience.
 
 ---
 
