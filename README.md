@@ -12,7 +12,7 @@
 - 🌱 **What I’m Learning:** Improving my MERN stack skills and exploring advanced frontend development techniques.
 
 - 💡 **About Me:** 
-  I am a **graduating student of the ALX Software Engineering Program** where I have honed my programming skills in **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, **Python**, and more. My journey in software engineering started with ALX, and it has fueled my passion for creating beautiful and efficient user interfaces. I am driven to build impactful solutions with **React** and **JavaScript** as my tools of choice.
+  I am a **graduating student of the ALX Software Engineering Program** where I have honed my programming skills in **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, **Python**, and more. My journey in software engineering started with ALX, and it has fueled my passion for creating beautiful and efficient user interfaces. I am driven to build impactful solutions with **JavaScript** as my tools of choice.
 
 - 💼 **Career Goal:** To leverage my frontend expertise and contribute to innovative projects that prioritize **user experience** and **scalability**. I am particularly excited about roles that allow me to grow as a **frontend React developer**.
 
