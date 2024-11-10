@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustopha Abdulqadir</h1>
-<h3 align="center">A Passionate Frontend React Developer | ALX Software Engineering Graduate</h3>
+<h3 align="center">A Frontend Developer | ALX Software Engineering Graduate</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elmoustafi-22&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
