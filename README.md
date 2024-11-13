@@ -7,10 +7,6 @@
 
 ---
 
-- 🔭 **I’m currently working on:**Building a website for listing remote job opportunities using **React**, **Next.js**, and **Tailwind CSS**.
-
-- 🌱 **What I’m Learning:** Improving my MERN stack skills and exploring advanced frontend development techniques.
-
 - 💡 **About Me:** 
   I am a **graduating student of the ALX Software Engineering Program** where I have honed my programming skills in **JavaScript**, **React**, **Next.js**, **Tailwind CSS**, **Python**, and more. My journey in software engineering started with ALX, and it has fueled my passion for creating beautiful and efficient user interfaces. I am driven to build impactful solutions with **JavaScript** as my tools of choice.
 
@@ -39,14 +35,14 @@
 
 ---
 
-<!--<h2>📈 GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elmoustafi-22&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elmoustafi-22&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmoustafi-22&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 ---
--->
+
 
 <h2>📫 Let's Connect</h2>
 <p align="center">
